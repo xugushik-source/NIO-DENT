@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nio-dent.vercel.app/sitemap.xml

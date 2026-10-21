@@ -1,0 +1,90 @@
+{
+  "_note": "Illustrative sample reviews for the NIO DENT demo — not written by real patients. Every card is labelled 'Sample review' in the UI. Replace with real Google/Facebook reviews (with the patient's consent) before launch.",
+  "aggregateRatingEnabled": false,
+  "items": [
+    {
+      "id": "r1",
+      "serviceSlug": "general-dentistry",
+      "quote": {
+        "ka": "ექიმმა ყველაფერი წინასწარ ამიხსნა და მკურნალობა სრულიად უმტკივნეულოდ ჩატარდა. კლინიკაში ძალიან სუფთა და მშვიდი გარემოა.",
+        "en": "The dentist explained everything beforehand and the treatment was completely painless. The clinic is very clean and calm.",
+        "ru": "Врач всё заранее объяснила, лечение прошло совершенно безболезненно. В клинике очень чисто и спокойно."
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    },
+    {
+      "id": "r2",
+      "serviceSlug": "pediatric-dentistry",
+      "quote": {
+        "ka": "შვილს ეშინოდა სტომატოლოგის, მაგრამ აქ ისე მოთმინებით მოექცნენ, რომ ახლა თვითონ ითხოვს ვიზიტს.",
+        "en": "My child was afraid of dentists, but they were so patient here that now he asks to go back.",
+        "ru": "Ребёнок боялся стоматологов, но здесь с ним были так терпеливы, что теперь он сам просится на приём."
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    },
+    {
+      "id": "r3",
+      "serviceSlug": "crowns-prosthetics",
+      "quote": {
+        "ka": "გვირგვინები ზუსტად მოერგო და ბუნებრივად გამოიყურება. კმაყოფილი ვარ შედეგით და მომსახურებით.",
+        "en": "The crowns fit perfectly and look natural. I'm happy with both the result and the care.",
+        "ru": "Коронки идеально подошли и выглядят естественно. Довольна и результатом, и отношением."
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    },
+    {
+      "id": "r4",
+      "serviceSlug": "professional-cleaning",
+      "quote": {
+        "ka": "წმენდა სწრაფად და კომფორტულად ჩატარდა, მივიღე კარგი რჩევები ყოველდღიური მოვლისთვის.",
+        "en": "The cleaning was quick and comfortable, and I got useful advice for daily care.",
+        "ru": "Чистку провели быстро и комфортно, дали полезные советы по ежедневному уходу."
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    },
+    {
+      "id": "r5",
+      "serviceSlug": "oral-surgery",
+      "quote": {
+        "ka": "სიბრძნის კბილის ამოღება ვერც კი ვიგრძენი. შემდეგ დღეს ექიმმა თვითონ დამირეკა და მკითხა, როგორ ვიყავი.",
+        "en": "I barely felt the wisdom tooth extraction. The next day the doctor called to ask how I was.",
+        "ru": "Удаление зуба мудрости почти не почувствовала. На следующий день врач сама позвонила узнать, как я."
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    },
+    {
+      "id": "r6",
+      "serviceSlug": "aesthetic-dentistry",
+      "quote": {
+        "ka": "ღიმილი სრულიად შეიცვალა — ახლა თამამად ვიღიმი ფოტოებზე. მადლობა მთელ გუნდს!",
+        "en": "My smile has completely changed — now I smile confidently in photos. Thank you to the whole team!",
+        "ru": "Улыбка полностью преобразилась — теперь смело улыбаюсь на фото. Спасибо всей команде!"
+      },
+      "authorInitial": {
+        "ka": "მიმოხილვის ნიმუში",
+        "en": "Sample review",
+        "ru": "Пример отзыва"
+      }
+    }
+  ]
+}

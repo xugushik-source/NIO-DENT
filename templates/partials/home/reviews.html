@@ -1,0 +1,23 @@
+<section>
+  <div class="container">
+    <div class="section-head centered reveal">
+      <span class="eyebrow">{{ t.reviews.eyebrow }}</span>
+      <h2>{{ t.reviews.title }}</h2>
+      <p class="body-lg">{{ t.reviews.description }}</p>
+      {% if rating.value %}
+      <p class="rating-line"><strong>★ {{ rating.value }}</strong> · {{ t.reviews.ratingLabel }} ({{ rating.count }})</p>
+      {% endif %}
+    </div>
+    <div class="card-grid cols-3">
+      {% for r in reviews %}
+      <div class="review-card reveal" data-reveal-group="reviews">
+        <p class="quote">“{{ r.quote }}”</p>
+        <p class="author">{{ r.authorInitial }}{% if r.serviceTitle %} — {{ r.serviceTitle }}{% endif %}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <div style="text-align:center; margin-top: 40px;">
+      <a class="btn btn-outline" href="{{ lang_prefix }}/reviews/">{{ t.common.viewAll }}</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,1263 @@
+[
+  {
+    "slug": "general-dentistry",
+    "icon": "tooth",
+    "flagship": true,
+    "cardImage": "/images/services/general-dentistry.jpg",
+    "heroImage": "/images/services/general-dentistry-hero.jpg",
+    "doctorSlug": "nino-ochigava",
+    "technologyRefs": [
+      "sterilization",
+      "x-ray"
+    ],
+    "relatedSlugs": [
+      "root-canal-treatment",
+      "professional-cleaning",
+      "periodontology"
+    ],
+    "eyebrow": {
+      "ka": "თერაპია",
+      "en": "Therapy",
+      "ru": "Терапия"
+    },
+    "title": {
+      "ka": "თერაპიული სტომატოლოგია",
+      "en": "Therapeutic Dentistry",
+      "ru": "Терапевтическая стоматология"
+    },
+    "shortCopy": {
+      "ka": "კარიესის მკურნალობა და ბჟენი — ზუსტად, ფრთხილად და ბუნებრივი ესთეტიკით.",
+      "en": "Cavity treatment and fillings — precise, gentle and natural-looking.",
+      "ru": "Лечение кариеса и пломбирование — точно, бережно и эстетично."
+    },
+    "intro": {
+      "ka": "თერაპია ჯანსაღი ღიმილის საფუძველია. ვმკურნალობთ კარიესს და მის გართულებებს, ვაღდგენთ კბილის ფორმასა და ფუნქციას თანამედროვე მასალებით.",
+      "en": "Therapy is the foundation of a healthy smile. We treat cavities and their complications and restore the tooth's shape and function with modern materials.",
+      "ru": "Терапия — основа здоровой улыбки. Лечим кариес и его осложнения, восстанавливаем форму и функцию зуба современными материалами."
+    },
+    "aboutTreatment": {
+      "ka": "მკურნალობა იწყება გასინჯვით და, საჭიროების შემთხვევაში, რენტგენით. ექიმი გიხსნით რას ხედავს და რა ვარიანტები არსებობს — მხოლოდ ამის შემდეგ ვიწყებთ მუშაობას.",
+      "en": "Treatment starts with an examination and, where needed, an X-ray. The dentist explains what they see and which options you have — only then do we begin.",
+      "ru": "Лечение начинается с осмотра и, при необходимости, рентгеновского снимка. Врач объясняет, что видит и какие есть варианты, — и только после этого мы приступаем."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "კბილი გტკივათ ან მგრძნობიარეა",
+        "შეამჩნიეთ ლაქა ან ღრუ კბილზე",
+        "ძველი ბჟენი უნდა შეიცვალოს"
+      ],
+      "en": [
+        "A tooth hurts or feels sensitive",
+        "You've noticed a dark spot or a cavity",
+        "An old filling needs replacing"
+      ],
+      "ru": [
+        "Зуб болит или реагирует на холодное и горячее",
+        "Вы заметили пятно или полость на зубе",
+        "Старую пломбу пора заменить"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ბუნებრივი ფერის ესთეტიკური ბჟენი",
+        "მკურნალობა ადგილობრივი ანესთეზიით",
+        "კბილის მაქსიმალური შენარჩუნება",
+        "გასაგები გეგმა მკურნალობამდე"
+      ],
+      "en": [
+        "Tooth-coloured aesthetic fillings",
+        "Treatment under local anaesthesia",
+        "As much natural tooth preserved as possible",
+        "A clear plan before treatment starts"
+      ],
+      "ru": [
+        "Эстетичные пломбы в цвет зуба",
+        "Лечение под местной анестезией",
+        "Максимальное сохранение собственного зуба",
+        "Понятный план до начала лечения"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "მტკივნეულია კარიესის მკურნალობა?",
+          "en": "Is cavity treatment painful?",
+          "ru": "Больно ли лечить кариес?"
+        },
+        "a": {
+          "ka": "მკურნალობა ტარდება ადგილობრივი ანესთეზიით, ამიტომ პროცედურა კომფორტულია.",
+          "en": "Treatment is done under local anaesthesia, so the procedure is comfortable.",
+          "ru": "Лечение проводится под местной анестезией, поэтому процедура комфортна."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "dental-implants",
+    "icon": "implant",
+    "flagship": true,
+    "cardImage": "/images/services/dental-implants.jpg",
+    "heroImage": "/images/services/dental-implants-hero.jpg",
+    "doctorSlug": null,
+    "technologyRefs": [
+      "x-ray",
+      "sterilization",
+      "dental-lab"
+    ],
+    "relatedSlugs": [
+      "crowns-prosthetics",
+      "oral-surgery",
+      "x-ray-diagnostics"
+    ],
+    "eyebrow": {
+      "ka": "იმპლანტოლოგია",
+      "en": "Implantology",
+      "ru": "Имплантология"
+    },
+    "title": {
+      "ka": "კბილის იმპლანტაცია",
+      "en": "Dental Implants",
+      "ru": "Имплантация зубов"
+    },
+    "shortCopy": {
+      "ka": "დაკარგული კბილის მყარი და ბუნებრივი აღდგენა — გეგმით და დიაგნოსტიკით.",
+      "en": "A stable, natural-looking replacement for a missing tooth — built on a plan and diagnostics.",
+      "ru": "Надёжное и естественное восстановление утраченного зуба — по плану и после диагностики."
+    },
+    "intro": {
+      "ka": "იმპლანტი აღადგენს როგორც კბილის ფუნქციას, ისე ღიმილის ბუნებრივ სახეს. ყოველი შემთხვევა იწყება დიაგნოსტიკით და ინდივიდუალური გეგმით.",
+      "en": "An implant restores both the tooth's function and the natural look of your smile. Every case starts with diagnostics and an individual plan.",
+      "ru": "Имплант восстанавливает и функцию зуба, и естественный вид улыбки. Каждый случай начинается с диагностики и индивидуального плана."
+    },
+    "aboutTreatment": {
+      "ka": "რენტგენოლოგიური კვლევით ფასდება ძვლის მდგომარეობა და იგეგმება იმპლანტის პოზიცია. შემდეგ, შეხორცების პერიოდის შემდეგ, იმპლანტზე მაგრდება გვირგვინი.",
+      "en": "X-ray diagnostics show the bone condition and help plan the implant position. After the healing period, a crown is fixed on the implant.",
+      "ru": "Рентгенологическое исследование показывает состояние кости и помогает спланировать положение импланта. После периода приживления на имплант фиксируется коронка."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "დაკარგული გაქვთ ერთი ან რამდენიმე კბილი",
+        "მოსახსნელი პროთეზი აღარ არის კომფორტული",
+        "გსურთ ხანგრძლივი და მყარი გადაწყვეტა"
+      ],
+      "en": [
+        "You've lost one or more teeth",
+        "A removable denture is no longer comfortable",
+        "You want a long-term, stable solution"
+      ],
+      "ru": [
+        "Вы потеряли один или несколько зубов",
+        "Съёмный протез больше не устраивает",
+        "Вы хотите долгосрочное и надёжное решение"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ბუნებრივი სახე და ღეჭვის ფუნქცია",
+        "მეზობელი კბილები არ ზიანდება",
+        "ხანგრძლივი შედეგი სწორი მოვლისას"
+      ],
+      "en": [
+        "Natural look and chewing function",
+        "Neighbouring teeth stay untouched",
+        "Long-lasting with proper care"
+      ],
+      "ru": [
+        "Естественный вид и функция жевания",
+        "Соседние зубы не затрагиваются",
+        "Долговечный результат при правильном уходе"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რამდენ ხანს გრძელდება იმპლანტაცია?",
+          "en": "How long does the implant process take?",
+          "ru": "Сколько длится имплантация?"
+        },
+        "a": {
+          "ka": "ვადა დამოკიდებულია ძვლის მდგომარეობასა და ინდივიდუალურ გეგმაზე — დეტალებს კონსულტაციაზე განვიხილავთ.",
+          "en": "It depends on the bone condition and your individual plan — we'll go through the details at the consultation.",
+          "ru": "Сроки зависят от состояния кости и индивидуального плана — подробности обсудим на консультации."
+        }
+      },
+      {
+        "q": {
+          "ka": "მტკივნეულია პროცედურა?",
+          "en": "Is the procedure painful?",
+          "ru": "Это больно?"
+        },
+        "a": {
+          "ka": "იმპლანტაცია ტარდება ადგილობრივი ანესთეზიით, პაციენტის კომფორტზე ზრუნვით.",
+          "en": "Implant placement is done under local anaesthesia, with your comfort in mind throughout.",
+          "ru": "Имплантация проводится под местной анестезией, с заботой о комфорте пациента."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "crowns-prosthetics",
+    "icon": "crown",
+    "flagship": true,
+    "cardImage": "/images/services/crowns-prosthetics.jpg",
+    "heroImage": "/images/services/crowns-prosthetics-hero.jpg",
+    "doctorSlug": "irakli-kezua",
+    "technologyRefs": [
+      "dental-lab",
+      "x-ray"
+    ],
+    "relatedSlugs": [
+      "dental-implants",
+      "aesthetic-dentistry",
+      "general-dentistry"
+    ],
+    "eyebrow": {
+      "ka": "ორთოპედია",
+      "en": "Prosthodontics",
+      "ru": "Ортопедия"
+    },
+    "title": {
+      "ka": "გვირგვინები და პროთეზირება",
+      "en": "Crowns & Prosthetics",
+      "ru": "Коронки и протезирование"
+    },
+    "shortCopy": {
+      "ka": "დაზიანებული ან დაკარგული კბილების აღდგენა გვირგვინებით, ხიდებითა და პროთეზებით.",
+      "en": "Restoring damaged or missing teeth with crowns, bridges and dentures.",
+      "ru": "Восстановление разрушенных и утраченных зубов коронками, мостами и протезами."
+    },
+    "intro": {
+      "ka": "ორთოპედიული მკურნალობა აბრუნებს ღეჭვის კომფორტს და ღიმილის ესთეტიკას. კონსტრუქციას ვარჩევთ კბილების მდგომარეობის და თქვენი სურვილის მიხედვით.",
+      "en": "Prosthetic treatment brings back chewing comfort and the look of your smile. The type of restoration is chosen around your teeth and your wishes.",
+      "ru": "Ортопедическое лечение возвращает комфорт при жевании и эстетику улыбки. Конструкцию подбираем по состоянию зубов и вашим пожеланиям."
+    },
+    "aboutTreatment": {
+      "ka": "კლინიკას აქვს საკუთარი ლაბორატორია, რაც ექიმსა და ტექნიკოსს შორის სწრაფ კომუნიკაციას და კონსტრუქციის ზუსტ მორგებას უწყობს ხელს.",
+      "en": "The clinic has its own dental laboratory, which keeps the dentist and technician in close contact and helps every restoration fit precisely.",
+      "ru": "У клиники есть собственная зуботехническая лаборатория — врач и техник работают в тесной связке, и конструкция точнее подгоняется."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "კბილი ძლიერ დაზიანებულია",
+        "დაკარგული გაქვთ ერთი ან რამდენიმე კბილი",
+        "გსურთ ძველი გვირგვინის შეცვლა"
+      ],
+      "en": [
+        "A tooth is badly damaged",
+        "One or more teeth are missing",
+        "You want to replace an old crown"
+      ],
+      "ru": [
+        "Зуб сильно разрушен",
+        "Отсутствует один или несколько зубов",
+        "Хотите заменить старую коронку"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ღეჭვის კომფორტის აღდგენა",
+        "ბუნებრივი სახე და ფერი",
+        "საკუთარი ლაბორატორია კლინიკაში"
+      ],
+      "en": [
+        "Comfortable chewing again",
+        "Natural shape and colour",
+        "In-house dental laboratory"
+      ],
+      "ru": [
+        "Возвращение комфорта при жевании",
+        "Естественная форма и цвет",
+        "Собственная лаборатория в клинике"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რა ტიპის გვირგვინები არსებობს?",
+          "en": "What types of crowns are there?",
+          "ru": "Какие бывают коронки?"
+        },
+        "a": {
+          "ka": "მასალას — მეტალოკერამიკა, ცირკონი თუ სხვა — ექიმი გირჩევთ კბილის მდგომარეობისა და ესთეტიკური მოთხოვნის მიხედვით.",
+          "en": "The material — metal-ceramic, zirconia or another option — is recommended by the dentist based on the tooth and your aesthetic goals.",
+          "ru": "Материал — металлокерамику, цирконий или другой вариант — врач порекомендует с учётом состояния зуба и эстетических задач."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "oral-surgery",
+    "icon": "surgery",
+    "flagship": true,
+    "cardImage": "/images/services/oral-surgery.jpg",
+    "heroImage": "/images/services/oral-surgery-hero.jpg",
+    "doctorSlug": "tamar-pachkoria",
+    "technologyRefs": [
+      "x-ray",
+      "sterilization"
+    ],
+    "relatedSlugs": [
+      "dental-implants",
+      "x-ray-diagnostics",
+      "general-dentistry"
+    ],
+    "eyebrow": {
+      "ka": "ქირურგია",
+      "en": "Surgery",
+      "ru": "Хирургия"
+    },
+    "title": {
+      "ka": "ქირურგიული და ყბა-სახის სტომატოლოგია",
+      "en": "Oral & Maxillofacial Surgery",
+      "ru": "Хирургическая и челюстно-лицевая стоматология"
+    },
+    "shortCopy": {
+      "ka": "კბილის ამოღება, სიბრძნის კბილები და სხვა ქირურგიული პროცედურები — უსაფრთხოდ.",
+      "en": "Extractions, wisdom teeth and other surgical procedures — done safely.",
+      "ru": "Удаление зубов, зубы мудрости и другие хирургические процедуры — безопасно."
+    },
+    "intro": {
+      "ka": "ქირურგიულ ჩარევამდე ყოველთვის ვაფასებთ, შესაძლებელია თუ არა კბილის შენარჩუნება. თუ ამოღება აუცილებელია, ის ტარდება ფრთხილად და სტერილურ პირობებში.",
+      "en": "Before any surgery we always check whether the tooth can be saved. If extraction is needed, it's done gently and in sterile conditions.",
+      "ru": "Перед любым вмешательством мы оцениваем, можно ли сохранить зуб. Если удаление необходимо, оно проводится бережно и в стерильных условиях."
+    },
+    "aboutTreatment": {
+      "ka": "ოპერაციის დაგეგმვაში გვეხმარება რენტგენი. პროცედურის შემდეგ მიიღებთ დეტალურ რეკომენდაციებს და ექიმი რჩება კავშირზე.",
+      "en": "An X-ray helps plan every procedure. Afterwards you receive clear aftercare instructions and the doctor stays in touch.",
+      "ru": "В планировании помогает рентгеновский снимок. После процедуры вы получите подробные рекомендации, а врач остаётся на связи."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "სიბრძნის კბილი გაწუხებთ",
+        "კბილის აღდგენა შეუძლებელია",
+        "საჭიროა მომზადება იმპლანტაციისთვის"
+      ],
+      "en": [
+        "A wisdom tooth is causing trouble",
+        "A tooth can't be restored",
+        "You need preparation for an implant"
+      ],
+      "ru": [
+        "Беспокоит зуб мудрости",
+        "Зуб невозможно восстановить",
+        "Нужна подготовка к имплантации"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ადგილობრივი ანესთეზია",
+        "სტერილიზაციის მაღალი სტანდარტი",
+        "დეტალური რეკომენდაციები შემდგომ"
+      ],
+      "en": [
+        "Local anaesthesia",
+        "High sterilisation standards",
+        "Clear aftercare instructions"
+      ],
+      "ru": [
+        "Местная анестезия",
+        "Высокий стандарт стерилизации",
+        "Подробные рекомендации после процедуры"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რა უნდა გავითვალისწინო ამოღების შემდეგ?",
+          "en": "What should I do after an extraction?",
+          "ru": "Что делать после удаления зуба?"
+        },
+        "a": {
+          "ka": "ექიმი მოგცემთ წერილობით რეკომენდაციებს — კვების, ჰიგიენისა და მედიკამენტების შესახებ.",
+          "en": "Your dentist gives you written guidance on eating, hygiene and medication.",
+          "ru": "Врач даст письменные рекомендации по питанию, гигиене и лекарствам."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "aesthetic-dentistry",
+    "icon": "sparkle",
+    "flagship": true,
+    "cardImage": "/images/services/aesthetic-dentistry.jpg",
+    "heroImage": "/images/services/aesthetic-dentistry-hero.jpg",
+    "doctorSlug": "irakli-kezua",
+    "technologyRefs": [
+      "dental-lab"
+    ],
+    "relatedSlugs": [
+      "crowns-prosthetics",
+      "professional-cleaning",
+      "orthodontics"
+    ],
+    "eyebrow": {
+      "ka": "ესთეტიკა",
+      "en": "Aesthetics",
+      "ru": "Эстетика"
+    },
+    "title": {
+      "ka": "ესთეტიკური სტომატოლოგია",
+      "en": "Aesthetic Dentistry",
+      "ru": "Эстетическая стоматология"
+    },
+    "shortCopy": {
+      "ka": "ღიმილის სრული რეაბილიტაცია — ფორმა, ფერი და ჰარმონია, რომელიც თქვენ გიხდებათ.",
+      "en": "Full smile rehabilitation — shape, colour and harmony that suit you.",
+      "ru": "Полная реабилитация улыбки — форма, цвет и гармония, которые подходят именно вам."
+    },
+    "intro": {
+      "ka": "ესთეტიკა, რაც გაბრწყინებთ — ასე აღწერს ნიო-დენტი ამ მიმართულებას. ვიწყებთ თქვენი სურვილით და ვქმნით გეგმას, რომელიც ღიმილს ბუნებრივად ალამაზებს.",
+      "en": "Aesthetics that make you shine — that's how NIO DENT describes this direction. We start from what you want and build a plan that enhances your smile naturally.",
+      "ru": "«Эстетика, которая заставляет сиять» — так NIO DENT описывает это направление. Мы начинаем с ваших пожеланий и строим план, который естественно преображает улыбку."
+    },
+    "aboutTreatment": {
+      "ka": "ესთეტიკური გადაწყვეტა შეიძლება მოიცავდეს ვინირებს, გვირგვინებს, ესთეტიკურ რესტავრაციას ან რამდენიმე მეთოდის კომბინაციას — არჩევანი თქვენთან ერთად კეთდება.",
+      "en": "An aesthetic plan may include veneers, crowns, aesthetic restorations or a combination — the choice is made together with you.",
+      "ru": "Эстетическое решение может включать виниры, коронки, художественную реставрацию или их сочетание — выбор делаем вместе с вами."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "არ მოგწონთ კბილების ფორმა ან ფერი",
+        "გაქვთ ნატეხი ან შუალედები",
+        "გსურთ ღიმილის სრული განახლება"
+      ],
+      "en": [
+        "You're unhappy with the shape or colour of your teeth",
+        "You have chips or gaps",
+        "You want a complete smile makeover"
+      ],
+      "ru": [
+        "Не нравится форма или цвет зубов",
+        "Есть сколы или щели",
+        "Хочется полностью обновить улыбку"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ინდივიდუალური ესთეტიკური გეგმა",
+        "ბუნებრივი შედეგი",
+        "საკუთარი ლაბორატორია",
+        "სითამამე და თავდაჯერებულობა ღიმილისთვის"
+      ],
+      "en": [
+        "An individual aesthetic plan",
+        "A natural-looking result",
+        "In-house laboratory",
+        "Confidence in your smile"
+      ],
+      "ru": [
+        "Индивидуальный эстетический план",
+        "Естественный результат",
+        "Собственная лаборатория",
+        "Уверенность в своей улыбке"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რამდენ ვიზიტს მოითხოვს?",
+          "en": "How many visits does it take?",
+          "ru": "Сколько визитов потребуется?"
+        },
+        "a": {
+          "ka": "ეს დამოკიდებულია არჩეულ მეთოდზე — ზუსტ გეგმას კონსულტაციაზე შევადგენთ.",
+          "en": "That depends on the chosen method — we'll set out an exact plan at the consultation.",
+          "ru": "Это зависит от выбранного метода — точный план составим на консультации."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "orthodontics",
+    "icon": "aligner",
+    "flagship": true,
+    "cardImage": "/images/services/orthodontics.jpg",
+    "heroImage": "/images/services/orthodontics-hero.jpg",
+    "doctorSlug": null,
+    "technologyRefs": [
+      "x-ray"
+    ],
+    "relatedSlugs": [
+      "pediatric-dentistry",
+      "aesthetic-dentistry",
+      "x-ray-diagnostics"
+    ],
+    "eyebrow": {
+      "ka": "ორთოდონტია",
+      "en": "Orthodontics",
+      "ru": "Ортодонтия"
+    },
+    "title": {
+      "ka": "ორთოდონტია — თანკბილვის კორექცია",
+      "en": "Orthodontics",
+      "ru": "Ортодонтия — исправление прикуса"
+    },
+    "shortCopy": {
+      "ka": "კბილების სწორება და თანკბილვის კორექცია ბავშვებსა და მოზრდილებში.",
+      "en": "Straightening teeth and correcting the bite for children and adults.",
+      "ru": "Выравнивание зубов и исправление прикуса у детей и взрослых."
+    },
+    "intro": {
+      "ka": "სწორი თანკბილვა არა მხოლოდ ლამაზი ღიმილია, არამედ კბილებისა და ღრძილების ჯანმრთელობაც. ნიო-დენტში ორთოდონტია ხელმისაწვდომია როგორც ბავშვებისთვის, ისე მოზრდილებისთვის.",
+      "en": "A correct bite isn't only about a beautiful smile — it protects teeth and gums too. At NIO DENT orthodontics is available for both children and adults.",
+      "ru": "Правильный прикус — это не только красивая улыбка, но и здоровье зубов и дёсен. В NIO DENT ортодонтия доступна и детям, и взрослым."
+    },
+    "aboutTreatment": {
+      "ka": "მკურნალობის მეთოდი — ბრეკეტები ან სხვა აპარატები — შეირჩევა დიაგნოსტიკის შემდეგ. ვადებსა და ეტაპებს წინასწარ განიხილავთ ექიმთან.",
+      "en": "The method — braces or other appliances — is chosen after diagnostics. You'll go through the timeline and stages with the orthodontist in advance.",
+      "ru": "Метод — брекеты или другие аппараты — выбирается после диагностики. Сроки и этапы вы заранее обсудите с врачом."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "კბილები არათანაბრად დგას",
+        "შეამჩნიეთ თანკბილვის პრობლემა",
+        "ბავშვს სჭირდება ორთოდონტის კონსულტაცია"
+      ],
+      "en": [
+        "Your teeth are crooked or crowded",
+        "You've noticed a bite problem",
+        "Your child needs an orthodontic check"
+      ],
+      "ru": [
+        "Зубы стоят неровно",
+        "Есть проблемы с прикусом",
+        "Ребёнку нужна консультация ортодонта"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ბავშვთა და მოზრდილთა ორთოდონტია",
+        "ეტაპობრივი გეგმა წინასწარ",
+        "ჯანსაღი და ესთეტიკური შედეგი"
+      ],
+      "en": [
+        "Orthodontics for kids and adults",
+        "A staged plan agreed in advance",
+        "A healthy and beautiful result"
+      ],
+      "ru": [
+        "Ортодонтия для детей и взрослых",
+        "Поэтапный план заранее",
+        "Здоровый и эстетичный результат"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რა ასაკიდან შეიძლება ორთოდონტიული მკურნალობა?",
+          "en": "From what age can orthodontic treatment start?",
+          "ru": "С какого возраста можно исправлять прикус?"
+        },
+        "a": {
+          "ka": "პირველი კონსულტაცია სასურველია ბავშვობაში — ექიმი შეაფასებს, როდის ჯობს მკურნალობის დაწყება. მოზრდილებშიც შესაძლებელია.",
+          "en": "A first check in childhood is ideal — the orthodontist will advise when to start. Adults can be treated too.",
+          "ru": "Первую консультацию лучше пройти в детстве — врач подскажет, когда начинать. Взрослым лечение тоже доступно."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "periodontology",
+    "icon": "gum",
+    "flagship": false,
+    "cardImage": "/images/services/periodontology.jpg",
+    "heroImage": "/images/services/periodontology-hero.jpg",
+    "doctorSlug": "nino-ochigava",
+    "technologyRefs": [
+      "sterilization"
+    ],
+    "relatedSlugs": [
+      "professional-cleaning",
+      "general-dentistry",
+      "oral-surgery"
+    ],
+    "eyebrow": {
+      "ka": "პაროდონტოლოგია",
+      "en": "Periodontology",
+      "ru": "Пародонтология"
+    },
+    "title": {
+      "ka": "ღრძილების მკურნალობა",
+      "en": "Gum Treatment",
+      "ru": "Лечение дёсен"
+    },
+    "shortCopy": {
+      "ka": "ღრძილების ანთების და პაროდონტიტის მკურნალობა — კბილების მყარი საყრდენისთვის.",
+      "en": "Treating gum inflammation and periodontitis — for a firm foundation for your teeth.",
+      "ru": "Лечение воспаления дёсен и пародонтита — для надёжной опоры зубов."
+    },
+    "intro": {
+      "ka": "ჯანსაღი ღრძილები კბილების სიმყარის საფუძველია. ვმკურნალობთ გინგივიტს და პაროდონტიტს და გასწავლით, როგორ შეინარჩუნოთ შედეგი.",
+      "en": "Healthy gums keep teeth firmly in place. We treat gingivitis and periodontitis and show you how to keep the result.",
+      "ru": "Здоровые дёсны — основа устойчивости зубов. Лечим гингивит и пародонтит и учим, как сохранить результат."
+    },
+    "aboutTreatment": {
+      "ka": "მკურნალობა იწყება ღრძილების მდგომარეობის შეფასებით და პროფესიული წმენდით. შემდეგ ექიმი გეგმავს საჭირო პროცედურებს და კონტროლის ვიზიტებს.",
+      "en": "Treatment starts with a gum assessment and professional cleaning. The dentist then plans any further procedures and check-ups.",
+      "ru": "Лечение начинается с оценки состояния дёсен и профессиональной чистки. Затем врач планирует процедуры и контрольные визиты."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "ღრძილები გისისხლიანდებათ",
+        "გაქვთ არასასიამოვნო სუნი პირიდან",
+        "კბილები მოძრაობს"
+      ],
+      "en": [
+        "Your gums bleed",
+        "You notice bad breath",
+        "Teeth feel loose"
+      ],
+      "ru": [
+        "Кровоточат дёсны",
+        "Беспокоит неприятный запах изо рта",
+        "Зубы стали подвижными"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "ანთების შეჩერება",
+        "კბილების შენარჩუნება",
+        "პირადი ჰიგიენის გეგმა"
+      ],
+      "en": [
+        "Inflammation brought under control",
+        "Teeth preserved",
+        "A personal hygiene plan"
+      ],
+      "ru": [
+        "Остановка воспаления",
+        "Сохранение зубов",
+        "Персональный план гигиены"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რატომ სისხლიანდება ღრძილები?",
+          "en": "Why do my gums bleed?",
+          "ru": "Почему кровоточат дёсны?"
+        },
+        "a": {
+          "ka": "ხშირად ეს ანთების ნიშანია. ექიმი გასინჯვისას დაადგენს მიზეზს და შესაბამის მკურნალობას შემოგთავაზებთ.",
+          "en": "It's often a sign of inflammation. The dentist will find the cause during the examination and suggest treatment.",
+          "ru": "Чаще всего это признак воспаления. Врач установит причину на осмотре и предложит лечение."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "root-canal-treatment",
+    "icon": "root-canal",
+    "flagship": false,
+    "cardImage": "/images/services/root-canal-treatment.jpg",
+    "heroImage": "/images/services/root-canal-treatment-hero.jpg",
+    "doctorSlug": "maiko-khvichia",
+    "technologyRefs": [
+      "x-ray",
+      "sterilization"
+    ],
+    "relatedSlugs": [
+      "general-dentistry",
+      "crowns-prosthetics",
+      "x-ray-diagnostics"
+    ],
+    "eyebrow": {
+      "ka": "ენდოდონტია",
+      "en": "Endodontics",
+      "ru": "Эндодонтия"
+    },
+    "title": {
+      "ka": "არხების მკურნალობა",
+      "en": "Root Canal Treatment",
+      "ru": "Лечение каналов"
+    },
+    "shortCopy": {
+      "ka": "კბილის გადარჩენა არხების მკურნალობით — ამოღების ნაცვლად.",
+      "en": "Saving the tooth with root canal treatment — instead of extracting it.",
+      "ru": "Сохранение зуба с помощью лечения каналов — вместо удаления."
+    },
+    "intro": {
+      "ka": "როცა ანთება კბილის ნერვამდე აღწევს, არხების მკურნალობა საშუალებას გვაძლევს შევინარჩუნოთ საკუთარი კბილი. ვმუშაობთ ფრთხილად და ეტაპობრივად.",
+      "en": "When inflammation reaches the nerve, root canal treatment lets you keep your own tooth. We work carefully, step by step.",
+      "ru": "Когда воспаление доходит до нерва, лечение каналов позволяет сохранить собственный зуб. Работаем аккуратно и поэтапно."
+    },
+    "aboutTreatment": {
+      "ka": "რენტგენი გვიჩვენებს არხების ფორმას და სიგრძეს. არხები სუფთავდება, მუშავდება და ჰერმეტულად იბჟინება, შემდეგ კი კბილი აღდგება.",
+      "en": "An X-ray shows the shape and length of the canals. They are cleaned, shaped and sealed, and then the tooth is restored.",
+      "ru": "Рентген показывает форму и длину каналов. Каналы очищаются, обрабатываются и герметично пломбируются, затем зуб восстанавливается."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "კბილი ძლიერ გტკივათ",
+        "ღრძილზე შეშუპება გაჩნდა",
+        "ძველი არხის ბჟენი პრობლემას ქმნის"
+      ],
+      "en": [
+        "A tooth aches badly",
+        "There's swelling on the gum",
+        "An old root filling is causing trouble"
+      ],
+      "ru": [
+        "Сильно болит зуб",
+        "Появилась припухлость на десне",
+        "Старая пломба в канале вызывает проблемы"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "საკუთარი კბილის შენარჩუნება",
+        "ტკივილის აღმოფხვრა",
+        "ადგილობრივი ანესთეზია"
+      ],
+      "en": [
+        "Your own tooth preserved",
+        "Pain relieved",
+        "Local anaesthesia"
+      ],
+      "ru": [
+        "Сохранение собственного зуба",
+        "Устранение боли",
+        "Местная анестезия"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რამდენი ვიზიტი სჭირდება?",
+          "en": "How many visits does it need?",
+          "ru": "Сколько нужно визитов?"
+        },
+        "a": {
+          "ka": "ხშირად ერთი ან ორი ვიზიტი, თუმცა ეს დამოკიდებულია კბილის მდგომარეობაზე.",
+          "en": "Often one or two visits, depending on the condition of the tooth.",
+          "ru": "Часто один-два визита, в зависимости от состояния зуба."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "pediatric-dentistry",
+    "icon": "family",
+    "flagship": false,
+    "cardImage": "/images/services/pediatric-dentistry.jpg",
+    "heroImage": "/images/services/pediatric-dentistry-hero.jpg",
+    "doctorSlug": null,
+    "technologyRefs": [
+      "comfort",
+      "sterilization"
+    ],
+    "relatedSlugs": [
+      "orthodontics",
+      "professional-cleaning",
+      "general-dentistry"
+    ],
+    "eyebrow": {
+      "ka": "ბავშვთა სტომატოლოგია",
+      "en": "Pediatric Dentistry",
+      "ru": "Детская стоматология"
+    },
+    "title": {
+      "ka": "ბავშვთა სტომატოლოგია",
+      "en": "Children's Dentistry",
+      "ru": "Детская стоматология"
+    },
+    "shortCopy": {
+      "ka": "ბავშვთა თერაპია, ქირურგია, ორთოდონტია და პროფილაქტიკა — მშვიდ და მეგობრულ გარემოში.",
+      "en": "Children's therapy, surgery, orthodontics and prevention — in a calm, friendly setting.",
+      "ru": "Детская терапия, хирургия, ортодонтия и профилактика — в спокойной, дружелюбной обстановке."
+    },
+    "intro": {
+      "ka": "ბავშვის პირველი ვიზიტი განსაზღვრავს მის დამოკიდებულებას სტომატოლოგთან. ამიტომ ვმუშაობთ მოთმინებით და ვცდილობთ, ვიზიტი სასიამოვნო გამოცდილება იყოს.",
+      "en": "A child's first visits shape how they feel about the dentist. That's why we work patiently and try to make every visit a pleasant one.",
+      "ru": "Первые визиты определяют, как ребёнок будет относиться к стоматологу. Поэтому мы работаем терпеливо и стараемся, чтобы визит был приятным."
+    },
+    "aboutTreatment": {
+      "ka": "ნიო-დენტში ბავშვებისთვის ხელმისაწვდომია თერაპია, ქირურგია, ორთოდონტია და ორთოპედია, ასევე პროფილაქტიკური პროცედურები.",
+      "en": "At NIO DENT children can receive therapy, surgery, orthodontics and prosthetic care, as well as preventive procedures.",
+      "ru": "В NIO DENT для детей доступны терапия, хирургия, ортодонтия и ортопедия, а также профилактические процедуры."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "ბავშვის პირველი ვიზიტი",
+        "სარძევე ან მუდმივი კბილის პრობლემა",
+        "პროფილაქტიკური გასინჯვა"
+      ],
+      "en": [
+        "Your child's first dental visit",
+        "A problem with a baby or permanent tooth",
+        "A preventive check-up"
+      ],
+      "ru": [
+        "Первый визит ребёнка к стоматологу",
+        "Проблема с молочным или постоянным зубом",
+        "Профилактический осмотр"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "მშვიდი და მეგობრული მიდგომა",
+        "ყველა მიმართულება ერთ კლინიკაში",
+        "რჩევები მშობლებისთვის"
+      ],
+      "en": [
+        "A calm, friendly approach",
+        "Every direction in one clinic",
+        "Advice for parents"
+      ],
+      "ru": [
+        "Спокойный и дружелюбный подход",
+        "Все направления в одной клинике",
+        "Советы для родителей"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "როდის მოვიყვანო ბავშვი პირველად?",
+          "en": "When should my child first visit?",
+          "ru": "Когда впервые привести ребёнка?"
+        },
+        "a": {
+          "ka": "სასურველია პირველი კბილების ამოსვლის შემდეგ — ადრეული ვიზიტი ეხმარება ბავშვს შეეჩვიოს კლინიკას.",
+          "en": "Ideally after the first teeth come through — an early visit helps your child get used to the clinic.",
+          "ru": "Желательно после появления первых зубов — ранний визит помогает ребёнку привыкнуть к клинике."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "professional-cleaning",
+    "icon": "cleaning",
+    "flagship": false,
+    "cardImage": "/images/services/professional-cleaning.jpg",
+    "heroImage": "/images/services/professional-cleaning-hero.jpg",
+    "doctorSlug": "maiko-khvichia",
+    "technologyRefs": [
+      "sterilization"
+    ],
+    "relatedSlugs": [
+      "periodontology",
+      "general-dentistry",
+      "aesthetic-dentistry"
+    ],
+    "eyebrow": {
+      "ka": "პროფილაქტიკა",
+      "en": "Prevention",
+      "ru": "Профилактика"
+    },
+    "title": {
+      "ka": "პროფესიული ჰიგიენა",
+      "en": "Professional Cleaning",
+      "ru": "Профессиональная гигиена"
+    },
+    "shortCopy": {
+      "ka": "ნადების და ქვის მოცილება — ჯანსაღი ღრძილებისა და სუფთა ღიმილისთვის.",
+      "en": "Removing plaque and tartar — for healthy gums and a fresh smile.",
+      "ru": "Удаление налёта и камня — для здоровых дёсен и свежей улыбки."
+    },
+    "intro": {
+      "ka": "რეგულარული პროფესიული წმენდა მრავალი პრობლემის თავიდან აცილების უმარტივესი გზაა. პროცედურა კომფორტულია და მეტწილად ერთ ვიზიტში სრულდება.",
+      "en": "Regular professional cleaning is the simplest way to prevent many problems. It's comfortable and usually done in a single visit.",
+      "ru": "Регулярная профессиональная чистка — самый простой способ предотвратить многие проблемы. Процедура комфортна и чаще всего занимает один визит."
+    },
+    "aboutTreatment": {
+      "ka": "ვაშორებთ ნადებს და ქვას, ვაპრიალებთ კბილებს და გაძლევთ რეკომენდაციებს ყოველდღიური მოვლისთვის.",
+      "en": "We remove plaque and tartar, polish the teeth and give you advice for daily care.",
+      "ru": "Удаляем налёт и камень, полируем зубы и даём рекомендации по ежедневному уходу."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "ბოლო წმენდიდან ნახევარ წელზე მეტია გასული",
+        "გაქვთ ნადები ან ქვა",
+        "ემზადებით მკურნალობისთვის"
+      ],
+      "en": [
+        "It's been more than six months since your last cleaning",
+        "You have plaque or tartar",
+        "You're preparing for treatment"
+      ],
+      "ru": [
+        "С последней чистки прошло больше полугода",
+        "Есть налёт или камень",
+        "Вы готовитесь к лечению"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "სუფთა და გლუვი კბილები",
+        "ღრძილების ჯანმრთელობა",
+        "პირადი რჩევები მოვლისთვის"
+      ],
+      "en": [
+        "Clean, smooth teeth",
+        "Healthier gums",
+        "Personal care advice"
+      ],
+      "ru": [
+        "Чистые и гладкие зубы",
+        "Здоровье дёсен",
+        "Персональные советы по уходу"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რამდენად ხშირად უნდა გავიკეთო წმენდა?",
+          "en": "How often should I have a cleaning?",
+          "ru": "Как часто делать чистку?"
+        },
+        "a": {
+          "ka": "ჩვეულებრივ წელიწადში ორჯერ, თუმცა ექიმმა შეიძლება სხვა სიხშირე გირჩიოთ.",
+          "en": "Usually twice a year, though your dentist may recommend a different interval.",
+          "ru": "Обычно дважды в год, но врач может порекомендовать другую периодичность."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "x-ray-diagnostics",
+    "icon": "scan",
+    "flagship": false,
+    "cardImage": "/images/services/x-ray-diagnostics.jpg",
+    "heroImage": "/images/services/x-ray-diagnostics-hero.jpg",
+    "doctorSlug": null,
+    "technologyRefs": [
+      "x-ray"
+    ],
+    "relatedSlugs": [
+      "dental-implants",
+      "root-canal-treatment",
+      "oral-surgery"
+    ],
+    "eyebrow": {
+      "ka": "რადიოლოგია",
+      "en": "Radiology",
+      "ru": "Рентгенология"
+    },
+    "title": {
+      "ka": "რენტგენოლოგიური დიაგნოსტიკა",
+      "en": "X-ray Diagnostics",
+      "ru": "Рентгенодиагностика"
+    },
+    "shortCopy": {
+      "ka": "ზუსტი დიაგნოზი — ზუსტი მკურნალობის საფუძველი.",
+      "en": "An accurate diagnosis — the basis of accurate treatment.",
+      "ru": "Точный диагноз — основа точного лечения."
+    },
+    "intro": {
+      "ka": "რენტგენი გვიჩვენებს იმას, რაც თვალით არ ჩანს: ფარულ კარიესს, ანთებას ფესვის მიდამოში, ძვლის მდგომარეობას. ეს გვეხმარება სწორი გეგმის შედგენაში.",
+      "en": "An X-ray shows what the eye can't: hidden decay, inflammation around the root, the condition of the bone. It helps us build the right plan.",
+      "ru": "Рентген показывает то, что не видно глазом: скрытый кариес, воспаление у корня, состояние кости. Это помогает составить правильный план."
+    },
+    "aboutTreatment": {
+      "ka": "დიაგნოსტიკა ტარდება კლინიკაში, ასე რომ, საჭიროების შემთხვევაში სურათს ექიმი იმავე ვიზიტზე გიჩვენებთ და აგიხსნით.",
+      "en": "Imaging is done in the clinic, so when needed the dentist can show and explain the image during the same visit.",
+      "ru": "Снимок делается в клинике, поэтому при необходимости врач покажет и объяснит его в тот же визит."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "იგეგმება მკურნალობა ან იმპლანტაცია",
+        "კბილი გტკივათ გაურკვეველი მიზეზით",
+        "საჭიროა მკურნალობის შედეგის კონტროლი"
+      ],
+      "en": [
+        "Treatment or an implant is being planned",
+        "A tooth hurts for no clear reason",
+        "A treatment result needs checking"
+      ],
+      "ru": [
+        "Планируется лечение или имплантация",
+        "Зуб болит без видимой причины",
+        "Нужно проконтролировать результат лечения"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "დიაგნოსტიკა ადგილზე",
+        "ფარული პრობლემების აღმოჩენა",
+        "უფრო ზუსტი გეგმა"
+      ],
+      "en": [
+        "Imaging on site",
+        "Hidden problems detected",
+        "A more precise plan"
+      ],
+      "ru": [
+        "Диагностика на месте",
+        "Выявление скрытых проблем",
+        "Более точный план"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "უსაფრთხოა რენტგენი?",
+          "en": "Is an X-ray safe?",
+          "ru": "Безопасен ли рентген?"
+        },
+        "a": {
+          "ka": "სტომატოლოგიურ რენტგენს მცირე დატვირთვა აქვს და ის კეთდება მხოლოდ მაშინ, როცა ნამდვილად საჭიროა.",
+          "en": "Dental X-rays use a low dose and are only taken when genuinely needed.",
+          "ru": "Стоматологический рентген даёт малую нагрузку и делается только тогда, когда действительно нужен."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  },
+  {
+    "slug": "consultation",
+    "icon": "whitening",
+    "flagship": false,
+    "cardImage": "/images/services/consultation.jpg",
+    "heroImage": "/images/services/consultation-hero.jpg",
+    "doctorSlug": null,
+    "technologyRefs": [
+      "comfort"
+    ],
+    "relatedSlugs": [
+      "general-dentistry",
+      "x-ray-diagnostics",
+      "aesthetic-dentistry"
+    ],
+    "eyebrow": {
+      "ka": "კონსულტაცია",
+      "en": "Consultation",
+      "ru": "Консультация"
+    },
+    "title": {
+      "ka": "კონსულტაცია და მკურნალობის გეგმა",
+      "en": "Consultation & Treatment Plan",
+      "ru": "Консультация и план лечения"
+    },
+    "shortCopy": {
+      "ka": "პირველი ნაბიჯი — გასინჯვა, საუბარი და გასაგები გეგმა.",
+      "en": "The first step — an examination, a conversation and a clear plan.",
+      "ru": "Первый шаг — осмотр, разговор и понятный план."
+    },
+    "intro": {
+      "ka": "კონსულტაციაზე ექიმი გისმენთ, გსინჯავთ და გიხსნით, რას ხედავს. თქვენ იღებთ ინფორმაციას ყველა შესაძლო ვარიანტზე, სანამ რამეს გადაწყვეტთ.",
+      "en": "At the consultation the dentist listens, examines and explains what they see. You hear about every option before deciding anything.",
+      "ru": "На консультации врач выслушает вас, осмотрит и объяснит, что видит. Вы узнаете обо всех вариантах до того, как что-то решать."
+    },
+    "aboutTreatment": {
+      "ka": "საჭიროების შემთხვევაში კეთდება რენტგენი, რის შემდეგაც დგება ეტაპობრივი გეგმა და განიხილება ღირებულება.",
+      "en": "Where needed an X-ray is taken, then a step-by-step plan is drawn up and the cost discussed.",
+      "ru": "При необходимости делается снимок, затем составляется поэтапный план и обсуждается стоимость."
+    },
+    "whoItIsFor": {
+      "ka": [
+        "პირველად მოდიხართ ნიო-დენტში",
+        "გსურთ მეორე აზრის მოსმენა",
+        "ფიქრობთ კომპლექსურ მკურნალობაზე"
+      ],
+      "en": [
+        "It's your first visit to NIO DENT",
+        "You'd like a second opinion",
+        "You're considering more complex treatment"
+      ],
+      "ru": [
+        "Вы впервые в NIO DENT",
+        "Хотите услышать второе мнение",
+        "Задумываетесь о комплексном лечении"
+      ]
+    },
+    "benefits": {
+      "ka": [
+        "დრო თქვენი კითხვებისთვის",
+        "გასაგები ეტაპობრივი გეგმა",
+        "ღირებულება წინასწარ"
+      ],
+      "en": [
+        "Time for your questions",
+        "A clear step-by-step plan",
+        "Cost discussed upfront"
+      ],
+      "ru": [
+        "Время на ваши вопросы",
+        "Понятный поэтапный план",
+        "Стоимость заранее"
+      ]
+    },
+    "faq": [
+      {
+        "q": {
+          "ka": "რა წავიღო კონსულტაციაზე?",
+          "en": "What should I bring to the consultation?",
+          "ru": "Что взять на консультацию?"
+        },
+        "a": {
+          "ka": "თუ გაქვთ ძველი რენტგენი ან სამედიცინო ჩანაწერები, წამოიღეთ — ეს დაგვეხმარება.",
+          "en": "If you have previous X-rays or medical records, bring them — they help.",
+          "ru": "Если есть старые снимки или медицинские записи, возьмите их — это поможет."
+        }
+      }
+    ],
+    "price": {
+      "amount": null,
+      "currency": "₾",
+      "prefix": {
+        "ka": "ფასი — კონსულტაციის შემდეგ",
+        "en": "Price — after consultation",
+        "ru": "Стоимость — после консультации"
+      },
+      "note": {
+        "ka": "ზუსტი ღირებულება განისაზღვრება გასინჯვისა და მკურნალობის გეგმის შედგენის შემდეგ.",
+        "en": "The exact price is set after the examination and your personal treatment plan.",
+        "ru": "Точная стоимость определяется после осмотра и составления плана лечения."
+      }
+    }
+  }
+]

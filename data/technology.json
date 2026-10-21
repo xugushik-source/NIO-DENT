@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "sterilization",
+    "icon": "sterilization",
+    "image": "/images/services/professional-cleaning.jpg",
+    "name": {
+      "ka": "დეზინფექცია და სტერილიზაცია",
+      "en": "Disinfection & Sterilisation",
+      "ru": "Дезинфекция и стерилизация"
+    },
+    "shortExplain": {
+      "ka": "დეზინფექციისა და სტერილიზაციის უმაღლესი დონე — თანამედროვე დანადგარებით.",
+      "en": "The highest level of disinfection and sterilisation, using modern equipment.",
+      "ru": "Высший уровень дезинфекции и стерилизации — на современном оборудовании."
+    },
+    "patientBenefit": {
+      "ka": "თქვენთვის ეს ნიშნავს უსაფრთხო და საიმედო მკურნალობას ყოველ ვიზიტზე.",
+      "en": "For you, that means safe, reliable treatment at every visit.",
+      "ru": "Для вас это значит безопасное и надёжное лечение при каждом визите."
+    }
+  },
+  {
+    "slug": "x-ray",
+    "icon": "cbct",
+    "image": "/images/technology/x-ray.jpg",
+    "name": {
+      "ka": "რენტგენოლოგიური დიაგნოსტიკა",
+      "en": "X-ray Diagnostics",
+      "ru": "Рентгенодиагностика"
+    },
+    "shortExplain": {
+      "ka": "სურათი კეთდება კლინიკაში და გვიჩვენებს იმას, რაც თვალით არ ჩანს.",
+      "en": "Images are taken in the clinic and show what the eye can't see.",
+      "ru": "Снимок делается в клинике и показывает то, что не видно глазом."
+    },
+    "patientBenefit": {
+      "ka": "ზუსტი დიაგნოზი — ზუსტი გეგმა და ნაკლები მოულოდნელობა.",
+      "en": "An accurate diagnosis means an accurate plan and fewer surprises.",
+      "ru": "Точный диагноз — точный план и меньше неожиданностей."
+    }
+  },
+  {
+    "slug": "dental-lab",
+    "icon": "planning",
+    "image": "/images/services/crowns-prosthetics.jpg",
+    "name": {
+      "ka": "საკუთარი ლაბორატორია",
+      "en": "In-house Dental Laboratory",
+      "ru": "Собственная лаборатория"
+    },
+    "shortExplain": {
+      "ka": "ორთოპედიული კონსტრუქციები მზადდება ექიმთან მჭიდრო თანამშრომლობით.",
+      "en": "Crowns and prosthetics are made in close collaboration with your dentist.",
+      "ru": "Ортопедические конструкции изготавливаются в тесном контакте с врачом."
+    },
+    "patientBenefit": {
+      "ka": "უკეთესი მორგება და სწრაფი კომუნიკაცია ექიმსა და ტექნიკოსს შორის.",
+      "en": "A better fit and quick communication between dentist and technician.",
+      "ru": "Лучшая посадка и быстрая связь между врачом и техником."
+    }
+  },
+  {
+    "slug": "comfort",
+    "icon": "comfort",
+    "image": "/images/clinic/comfort.jpg",
+    "name": {
+      "ka": "კომფორტული გარემო",
+      "en": "A Comfortable Setting",
+      "ru": "Комфортная обстановка"
+    },
+    "shortExplain": {
+      "ka": "კლინიკაში შექმნილია მაქსიმალურად კომფორტული გარემო პაციენტებისთვის.",
+      "en": "The clinic is designed to be as comfortable as possible for patients.",
+      "ru": "В клинике создана максимально комфортная обстановка для пациентов."
+    },
+    "patientBenefit": {
+      "ka": "მშვიდი ვიზიტი — მოსაცდელიდან კაბინეტამდე.",
+      "en": "A calm visit — from the waiting area to the treatment room.",
+      "ru": "Спокойный визит — от зоны ожидания до кабинета."
+    }
+  }
+]

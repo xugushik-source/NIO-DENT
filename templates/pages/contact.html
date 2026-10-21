@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="page-header">
+  <div class="container">
+    {% include "partials/breadcrumb.html" %}
+    <span class="eyebrow">{{ t.contactPage.eyebrow }}</span>
+    <h1>{{ t.contactPage.title }}</h1>
+    <p class="body-lg">{{ t.contactPage.description }}</p>
+  </div>
+</section>
+<section style="padding-top:0;">
+  <div class="container contact-grid">
+    <div class="reveal">
+      <div class="contact-detail">
+        <span class="text-muted">{{ t.contactPage.phoneLabel }}</span>
+        <a class="link-arrow" href="{{ site.contact.phoneUri }}">{{ site.contact.phone }}</a>
+      </div>
+      <div class="contact-detail">
+        <span class="text-muted">{{ t.contactPage.whatsappLabel }}</span>
+        <a class="link-arrow" href="{{ wa_url(whatsapp_default_message) }}" target="_blank" rel="noopener">{{ site.contact.whatsapp }}</a>
+      </div>
+      <div class="contact-detail">
+        <span class="text-muted">{{ t.contactPage.emailLabel }}</span>
+        <span>{{ site.contact.email }}</span>
+      </div>
+      <div class="contact-detail">
+        <span class="text-muted">{{ t.contactPage.hoursLabel }}</span>
+        <span>
+          {{ t.contactPage.hoursWeekday }} {{ t.contactPage.hoursWeekdayTime }}<br>
+          {{ t.contactPage.hoursSaturday }} {{ t.contactPage.hoursSaturdayTime }}<br>
+          {{ t.contactPage.hoursSunday }} — {{ t.contactPage.hoursSundayTime }}
+        </span>
+      </div>
+      <div class="contact-detail">
+        <span class="text-muted">{{ t.contactPage.addressLabel }}</span>
+        <span>{{ site.contact.address[lang] }}</span>
+      </div>
+      <div style="margin-top:32px;">
+        <button type="button" class="btn btn-primary" data-open-booking>{{ t.nav.bookConsultation }}</button>
+      </div>
+    </div>
+    <div class="reveal">
+      <div class="map-card">
+        <div class="map-card-body">
+          <span class="eyebrow">{{ t.contactPage.addressLabel }}</span>
+          <p>{{ site.contact.address[lang] }}</p>
+          <a class="link-arrow" href="https://www.google.com/maps/search/?api=1&amp;query={{ site.contact.address.en | urlencode }}" target="_blank" rel="noopener">{{ t.contactPage.directionsCta }} <span class="arrow">→</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="container two-col">
+    <div class="reveal">
+      <h2>{{ t.contactPage.paymentTitle }}</h2>
+      <ul style="display:flex; flex-direction:column; gap:10px;">
+        {% for item in t.contactPage.paymentOptions %}
+        <li style="padding-left:20px; position:relative;"><span style="position:absolute; left:0; color:var(--color-accent);">—</span>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="reveal">
+      <h2>{{ t.contactPage.safetyTitle }}</h2>
+      <ul style="display:flex; flex-direction:column; gap:10px;">
+        {% for item in t.contactPage.safetyItems %}
+        <li style="padding-left:20px; position:relative;"><span style="position:absolute; left:0; color:var(--color-accent);">—</span>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container" style="max-width: 780px;">
+    <h2 class="reveal">{{ t.contactPage.generalFaqTitle }}</h2>
+    <div>
+      {% for item in t.contactPage.generalFaq %}
+      <div class="faq-item reveal">
+        <button type="button" class="faq-question"><span>{{ item.q }}</span><span class="plus">+</span></button>
+        <div class="faq-answer"><div class="faq-answer-inner">{{ item.a }}</div></div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

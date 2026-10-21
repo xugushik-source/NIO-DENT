@@ -1,0 +1,228 @@
+{
+  "htmlLang": "en",
+  "dir": "ltr",
+  "meta": { "titleSuffix": "NIO DENT — Dental & Aesthetic Center in Zugdidi" },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Doctors",
+    "technology": "Technology",
+    "about": "About",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "bookConsultation": "Book an appointment"
+  },
+  "common": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "backTo": "Back to",
+    "close": "Close",
+    "menu": "Menu",
+    "language": "Language",
+    "priceNote": "Price after consultation",
+    "demoDataBadge": "Demo data"
+  },
+  "hero": {
+    "eyebrow": "Dentistry & aesthetics in Zugdidi since 2010",
+    "headline": "A beautiful smile starts with trust",
+    "description": "Every field of dentistry in one clinic — from therapy and surgery to prosthetics, orthodontics and aesthetics. Certified doctors, the highest sterilisation standards and a comfortable setting.",
+    "ctaPrimary": "Book an appointment",
+    "ctaSecondary": "Message on WhatsApp",
+    "trustChips": ["Since 2010", "7 specialists", "Highest sterilisation standards"]
+  },
+  "trust": {
+    "title": "Why NIO DENT",
+    "items": {
+      "sterilization": { "title": "Sterilisation", "desc": "The highest level of disinfection and sterilisation, on modern equipment." },
+      "certifiedDoctors": { "title": "Certified doctors", "desc": "A team of professionals who keep learning and growing." },
+      "comfort": { "title": "A comfortable setting", "desc": "A clinic where patients feel calm and at ease, from the entrance to the treatment room." },
+      "fairPrices": { "title": "Fair prices", "desc": "High-quality treatment at an honest, clear price." }
+    },
+    "stats": {
+      "yearsExperience": "years of the clinic",
+      "specialists": "specialists",
+      "since": "year founded",
+      "treatmentAreas": "treatment areas"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Every field of dentistry in one place",
+    "description": "Therapy, surgery, prosthetics, orthodontics, implantology, periodontology, children's and aesthetic dentistry.",
+    "ctaViewAll": "View all services"
+  },
+  "technology": {
+    "eyebrow": "Safety & quality",
+    "title": "What trust is built on",
+    "description": "Sterility, accurate diagnostics and our own laboratory are the foundation of every treatment at NIO DENT."
+  },
+  "doctorSpotlight": {
+    "eyebrow": "Our doctors",
+    "title": "Patient trust matters most to our doctors",
+    "description": "Our goal is professional growth and development, so we can offer you high-quality dental care.",
+    "ctaMeetTeam": "Meet the team"
+  },
+  "patientExperience": {
+    "eyebrow": "Your visit",
+    "title": "From the first call to the result",
+    "description": "What to expect, step by step.",
+    "steps": {
+      "arrival": { "title": "Arrival", "desc": "A calm welcome and a short chat about what's bothering you." },
+      "consultation": { "title": "Consultation", "desc": "We listen first, then examine, then explain what we found." },
+      "diagnostics": { "title": "Diagnostics", "desc": "An X-ray where it's needed, so nothing is left to guesswork." },
+      "treatment": { "title": "Treatment", "desc": "Following the plan you've already seen and agreed to." },
+      "followUp": { "title": "Aftercare", "desc": "We stay in touch and answer any questions that come up." }
+    }
+  },
+  "team": {
+    "eyebrow": "Our team",
+    "title": "The doctors of NIO DENT",
+    "description": "Therapists, surgeons, a prosthodontist and a periodontist — a team that takes care of your smile."
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What patients say",
+    "description": "This is how the reviews section will look — real NIO DENT patient reviews will appear here.",
+    "ratingLabel": "Patient rating"
+  },
+  "finalCTA": {
+    "eyebrow": "Find us at 58 Kostava St, Zugdidi",
+    "title": "Book your visit to NIO DENT",
+    "description": "Call, message us on WhatsApp or send a request — we'll find a convenient time and doctor."
+  },
+  "footer": {
+    "servicesTitle": "Services",
+    "clinicTitle": "Clinic",
+    "contactTitle": "Contact",
+    "languagesTitle": "Languages",
+    "socialTitle": "Follow us",
+    "developedBy": "Website concept and development —",
+    "rights": "All rights reserved.",
+    "disclosure": "Demo version of the website, prepared for review by NIO DENT. Contacts and the list of doctors come from dentos.ge and the clinic's Facebook page; some images are illustrative and the reviews are samples. Final content is agreed with the clinic."
+  },
+  "booking": {
+    "title": "Book an appointment",
+    "description": "Fill in a few fields — we'll confirm your booking on WhatsApp.",
+    "name": "Your name",
+    "phone": "Phone number",
+    "service": "Service you're interested in",
+    "servicePlaceholder": "Choose a service",
+    "contactMethod": "Preferred contact method",
+    "contactMethodOptions": ["WhatsApp", "Phone call"],
+    "message": "Comment (optional)",
+    "submit": "Send via WhatsApp",
+    "note": "WhatsApp will open with your message filled in — nothing is sent automatically."
+  },
+  "whatsapp": {
+    "defaultMessage": "Hello! I've seen the NIO DENT website and would like to book an appointment.",
+    "serviceMessageTemplate": "Hello! I've seen the NIO DENT website. I'm interested in \"{service}\" and would like to learn more and book an appointment.",
+    "doctorMessageTemplate": "Hello! I've seen the NIO DENT website and would like to book an appointment with {doctor}.",
+    "bookingMessageTemplate": "Hello! My name is {name}. Phone: {phone}. I'd like to book an appointment{doctorClause}{serviceClause}. Preferred contact: {contact}.{messageClause}",
+    "serviceClauseTemplate": " for \"{service}\"",
+    "doctorClauseTemplate": " with {doctor}",
+    "messageClauseTemplate": " Comment: {message}"
+  },
+  "servicesPage": {
+    "eyebrow": "All services",
+    "title": "Dentistry and aesthetics for the whole family",
+    "description": "Each service page explains what it is, who it's for and how treatment works at NIO DENT."
+  },
+  "serviceDetail": {
+    "breadcrumbServices": "Services",
+    "aboutTitle": "About the treatment",
+    "whoTitle": "Who it's for",
+    "benefitsTitle": "Benefits",
+    "processTitle": "How we work",
+    "technologyTitle": "Safety & equipment",
+    "doctorTitle": "Your doctor",
+    "pricingTitle": "Price",
+    "faqTitle": "Frequently asked questions",
+    "relatedTitle": "Related services",
+    "ctaTitle": "Ready to talk about your case?",
+    "ctaDescription": "Book an appointment or message us on WhatsApp — we'll tell you the next step."
+  },
+  "doctorsPage": {
+    "eyebrow": "Our doctors",
+    "title": "The NIO DENT team",
+    "description": "Certified specialists in therapy, surgery, prosthetics and periodontology."
+  },
+  "doctorDetail": {
+    "backToDoctors": "All doctors",
+    "expertiseTitle": "Expertise",
+    "servicesTitle": "Services",
+    "languagesTitle": "Languages",
+    "experienceLabel": "Experience",
+    "experienceSuffix": "years",
+    "educationTitle": "Education & qualifications",
+    "certificationsTitle": "Certificates",
+    "ctaTitle": "Book with this doctor",
+    "ctaDescription": "We'll confirm the time on WhatsApp right after your message."
+  },
+  "technologyPage": {
+    "eyebrow": "Safety & quality",
+    "title": "Sterility, diagnostics, laboratory",
+    "description": "What stands behind every treatment at NIO DENT — and what it means for you."
+  },
+  "aboutPage": {
+    "eyebrow": "About NIO DENT",
+    "title": "Dental & Aesthetic Center in Zugdidi",
+    "sections": {
+      "philosophy": { "title": "Since 2010", "body": "Our clinic was founded in 2010 and has been constantly renewing itself ever since — its equipment, its knowledge and its care for patients." },
+      "patientApproach": { "title": "Patient trust", "body": "Patient trust matters most to our doctors. We explain every step in plain language and don't start treatment until the plan is agreed." },
+      "digitalDentistry": { "title": "Every kind of treatment", "body": "The clinic offers every kind of dental procedure: therapy, surgery, children's dentistry, orthodontics, prosthetics, periodontology, implantology and aesthetic dentistry." },
+      "team": { "title": "Our team", "body": "Certified professional doctors. Our goal is professional growth and development, so we can offer you high-quality dental care." },
+      "clinicEnvironment": { "title": "The clinic", "body": "The most comfortable setting we can create for patients, and the highest level of disinfection and sterilisation on modern equipment." },
+      "technology": { "title": "Safety & quality", "body": "More about sterilisation, diagnostics and our own laboratory on the Technology page." },
+      "patientExperience": { "title": "Fair prices", "body": "High-quality dental care at an affordable, transparent price — always discussed upfront." },
+      "cta": { "title": "A question before booking?", "body": "Message us on WhatsApp or give us a call — we're happy to help." }
+    }
+  },
+  "reviewsPage": {
+    "eyebrow": "Reviews",
+    "title": "Patient reviews",
+    "description": "This is how the reviews page will look — real NIO DENT patient reviews will appear here."
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "description": "Call, message us on WhatsApp or book an appointment — whatever suits you.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "whatsappLabel": "WhatsApp",
+    "hoursLabel": "Opening hours",
+    "hoursWeekday": "Mon–Fri",
+    "hoursWeekdayTime": "10:00–18:00",
+    "hoursSaturday": "Sat",
+    "hoursSaturdayTime": "10:00–18:00",
+    "hoursSunday": "Sun",
+    "hoursSundayTime": "10:00–18:00",
+    "addressLabel": "Address",
+    "directionsCta": "Open in Google Maps",
+    "formTitle": "Write to us",
+    "paymentTitle": "Payment methods",
+    "paymentOptions": ["Cash", "Card payment"],
+    "safetyTitle": "Sterilisation & safety",
+    "safetyItems": [
+      "The highest level of disinfection and sterilisation",
+      "Modern sterilisation equipment",
+      "Single-use consumables wherever applicable",
+      "The treatment room is prepared before every patient"
+    ],
+    "generalFaqTitle": "General questions",
+    "generalFaq": [
+      { "q": "Do you treat children", "a": "Yes — the clinic offers children's therapy, surgery, orthodontics and prosthetics. Just mention your child's age when booking." },
+      { "q": "How do I find out the cost", "a": "The cost depends on your case — the doctor will tell you after the examination and before any treatment starts." },
+      { "q": "Should I bring previous X-rays", "a": "If you have previous X-rays or medical records, please bring them — they help us plan more precisely." },
+      { "q": "Can I book via WhatsApp", "a": "Yes — message us on WhatsApp or use the booking form on the website." }
+    ]
+  },
+  "mobileBar": { "call": "Call", "whatsapp": "WhatsApp", "book": "Book" },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to home"
+  }
+}

@@ -1,0 +1,276 @@
+[
+  {
+    "slug": "maiko-khvichia",
+    "photo": "/images/doctors/maiko-khvichia.jpg",
+    "workingPhoto": "/images/hero/doctor-hero.jpg",
+    "role": {
+      "ka": "სტომატოლოგი-თერაპევტი",
+      "en": "Therapeutic Dentist",
+      "ru": "Стоматолог-терапевт"
+    },
+    "name": {
+      "ka": "მაიკო ხვიჩია",
+      "en": "Dr. Maiko Khvichia",
+      "ru": "Маико Хвичия"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "general-dentistry",
+      "root-canal-treatment",
+      "professional-cleaning"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "მაიკო ხვიჩია — სტომატოლოგი-თერაპევტი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Maiko Khvichia is a therapeutic dentist at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Маико Хвичия — стоматолог-терапевт в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "nino-ochigava",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "თერაპევტი, ქირურგი, პაროდონტოლოგი",
+      "en": "Therapist, Oral Surgeon, Periodontist",
+      "ru": "Терапевт, хирург, пародонтолог"
+    },
+    "name": {
+      "ka": "ნინო ოჩიგავა",
+      "en": "Dr. Nino Ochigava",
+      "ru": "Нино Очигава"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "general-dentistry",
+      "periodontology",
+      "oral-surgery"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "ნინო ოჩიგავა — თერაპევტი, ქირურგი, პაროდონტოლოგი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Nino Ochigava is a therapist, oral surgeon, periodontist at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Нино Очигава — терапевт, хирург, пародонтолог в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "irakli-kezua",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "სტომატოლოგი-ორთოპედი",
+      "en": "Prosthodontist",
+      "ru": "Стоматолог-ортопед"
+    },
+    "name": {
+      "ka": "ირაკლი კეზუა",
+      "en": "Dr. Irakli Kezua",
+      "ru": "Иракли Кезуа"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "crowns-prosthetics",
+      "aesthetic-dentistry"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "ირაკლი კეზუა — სტომატოლოგი-ორთოპედი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Irakli Kezua is a prosthodontist at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Иракли Кезуа — стоматолог-ортопед в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "tamar-pachkoria",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "ქირურგი (ყბა-სახის ქირურგია)",
+      "en": "Oral & Maxillofacial Surgeon",
+      "ru": "Хирург (челюстно-лицевая хирургия)"
+    },
+    "name": {
+      "ka": "თამარ პაჭკორია",
+      "en": "Dr. Tamar Pachkoria",
+      "ru": "Тамар Пачкория"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "oral-surgery"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "თამარ პაჭკორია — ქირურგი (ყბა-სახის ქირურგია) ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Tamar Pachkoria is a oral & maxillofacial surgeon at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Тамар Пачкория — хирург (челюстно-лицевая хирургия) в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "tamar-chitanava",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "თერაპევტი, ქირურგი",
+      "en": "Therapist, Oral Surgeon",
+      "ru": "Терапевт, хирург"
+    },
+    "name": {
+      "ka": "თამარ ჭითანავა",
+      "en": "Dr. Tamar Chitanava",
+      "ru": "Тамар Читанава"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "general-dentistry",
+      "oral-surgery"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "თამარ ჭითანავა — თერაპევტი, ქირურგი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Tamar Chitanava is a therapist, oral surgeon at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Тамар Читанава — терапевт, хирург в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "sopio-bigvava",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "თერაპევტი, ქირურგი",
+      "en": "Therapist, Oral Surgeon",
+      "ru": "Терапевт, хирург"
+    },
+    "name": {
+      "ka": "სოფიო ბიგვავა",
+      "en": "Dr. Sopio Bigvava",
+      "ru": "Софио Бигвава"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "general-dentistry",
+      "oral-surgery"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "სოფიო ბიგვავა — თერაპევტი, ქირურგი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Sopio Bigvava is a therapist, oral surgeon at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Софио Бигвава — терапевт, хирург в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  },
+  {
+    "slug": "nana-turdzeladze",
+    "photo": "/images/doctors/doctor-photo-soon.jpg",
+    "workingPhoto": "/images/doctors/doctor-photo-soon.jpg",
+    "role": {
+      "ka": "სტომატოლოგი-თერაპევტი",
+      "en": "Therapeutic Dentist",
+      "ru": "Стоматолог-терапевт"
+    },
+    "name": {
+      "ka": "ნანა ტურძელაძე",
+      "en": "Dr. Nana Turdzeladze",
+      "ru": "Нана Турдзеладзе"
+    },
+    "experienceYears": 0,
+    "languages": [
+      "ka"
+    ],
+    "services": [
+      "general-dentistry",
+      "root-canal-treatment"
+    ],
+    "quote": {
+      "ka": "",
+      "en": "",
+      "ru": ""
+    },
+    "bio": {
+      "ka": "ნანა ტურძელაძე — სტომატოლოგი-თერაპევტი ნიო-დენტში, ზუგდიდის სტომატოლოგიისა და ესთეტიკის ცენტრში, რომელიც 2010 წლიდან მუშაობს.",
+      "en": "Dr. Nana Turdzeladze is a therapeutic dentist at NIO DENT, the dental and aesthetic center in Zugdidi that has been open since 2010.",
+      "ru": "Нана Турдзеладзе — стоматолог-терапевт в NIO DENT, центре стоматологии и эстетики в Зугдиди, работающем с 2010 года."
+    },
+    "education": {
+      "ka": [],
+      "en": [],
+      "ru": []
+    },
+    "certifications": []
+  }
+]

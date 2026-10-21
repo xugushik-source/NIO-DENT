@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "clinicName": "NIO DENT",
+    "tagline": {
+      "ka": "სტომატოლოგიისა და ესთეტიკის ცენტრი",
+      "en": "Dental & Aesthetic Center",
+      "ru": "Центр стоматологии и эстетики"
+    },
+    "developer": "ORDER PROFIT",
+    "foundedYear": 2010,
+    "logo": {
+      "full": "/brand/logo-full.png",
+      "horizontal": "/brand/logo-full.png",
+      "mark": "/brand/logo-mark.png",
+      "light": "/brand/logo-full-white.png",
+      "dark": "/brand/logo-full.png",
+      "splash": "/brand/logo-splash.png",
+      "favicon": "/favicon-32.png",
+      "_note": "Clinic's own logo, taken from the public NIO DENT Facebook page (screenshots in Drive folder 'Nio denti'). Technical prep only: cropped, background removed, recoloured to a single tone for the white variant. Replace with the original vector/PNG once the clinic sends it."
+    }
+  },
+  "contact": {
+    "phone": "+995 574 80 48 00",
+    "phoneUri": "tel:+995574804800",
+    "whatsapp": "+995 574 80 48 00",
+    "whatsappNumber": "995574804800",
+    "whatsappUri": "https://wa.me/995574804800",
+    "email": "niodent.zugdidi@gmail.com",
+    "emailIsLive": true,
+    "address": {
+      "ka": "მ. კოსტავას ქ. 58, ზუგდიდი, საქართველო",
+      "en": "58 M. Kostava St, Zugdidi, Georgia",
+      "ru": "ул. М. Костава, 58, Зугдиди, Грузия"
+    },
+    "googleMapsUrl": "https://goo.gl/maps/52RZ3JbeVvt8f2Aa6",
+    "googleBusinessUrl": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/nio__dent/",
+      "facebook": "https://www.facebook.com/dentistzugdidi/",
+      "tiktok": null,
+      "youtube": null
+    },
+    "_note": "Phone, address, email, map link and socials are from niodent.dentos.ge and the clinic's Facebook page (phone also on their posters). WhatsApp is assumed to be the same number — confirm with the clinic."
+  },
+  "seo": {
+    "country": "Georgia",
+    "city": "Zugdidi",
+    "serviceAreas": ["Zugdidi", "Samegrelo"],
+    "productionUrl": "https://nio-dent.vercel.app",
+    "_note": "Overridable at build time via the SITE_URL environment variable (see build.py) — set it to the real client domain on launch, nothing else in the templates hardcodes a URL."
+  },
+  "languages": {
+    "default": "ka",
+    "supported": ["ka", "en", "ru"]
+  },
+  "featureFlags": {
+    "servicesEnabled": true,
+    "doctorProfilesEnabled": true,
+    "technologyEnabled": true,
+    "reviewsEnabled": true,
+    "beforeAfterEnabled": false,
+    "galleryEnabled": true,
+    "bookingEnabled": true,
+    "whatsappEnabled": true,
+    "offersEnabled": false,
+    "blogEnabled": false,
+    "multilingualEnabled": true,
+    "demoMode": true
+  },
+  "visual": {
+    "heroVariant": "doctorFocus",
+    "servicesVariant": "grid",
+    "doctorVariant": "cards",
+    "reviewVariant": "cards"
+  },
+  "homepageSections": [
+    "hero",
+    "trust",
+    "services",
+    "technology",
+    "doctorSpotlight",
+    "patientExperience",
+    "team",
+    "reviews",
+    "finalCTA"
+  ],
+  "trustItems": [
+    { "icon": "diagnostics", "key": "sterilization" },
+    { "icon": "digital", "key": "certifiedDoctors" },
+    { "icon": "planning", "key": "comfort" },
+    { "icon": "languages", "key": "fairPrices" }
+  ],
+  "stats": [
+    { "value": "15+", "key": "yearsExperience" },
+    { "value": "7", "key": "specialists" },
+    { "value": "2010", "key": "since" },
+    { "value": "12", "key": "treatmentAreas" }
+  ],
+  "rating": {
+    "value": null,
+    "count": 6,
+    "_note": "No verified rating exists yet — value stays null so no star rating is shown. count must equal the number of items in reviews.json (validate.py)."
+  }
+}
