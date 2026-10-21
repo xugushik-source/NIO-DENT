@@ -43,6 +43,6 @@ docs/engine/         engine docs carried over from ELIT DENT (design audit,
 - Logo and photos (Maiko Khvichia, reception with the gold logo wall, team photos):
   the clinic's public Facebook page (screenshots in the Drive folder "Nio denti"),
   cropped from screenshots — replace with originals from the clinic.
-- Service/technology illustrations: generic images inherited from the engine,
-  to be replaced with the clinic's own photos.
+- Service photos: 8 of 12 from the clinic's Facebook; implants, orthodontics,
+  children's dentistry and X-ray still use generic engine illustrations.
 - Reviews: illustrative samples, labelled "Sample review" on every card.

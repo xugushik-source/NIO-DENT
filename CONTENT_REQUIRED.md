@@ -47,7 +47,11 @@ ask whether he should be.
 The directions listed on dentos.ge: therapy, implantology, prosthetics, surgery,
 aesthetics, orthodontics, periodontology, endodontics, children's dentistry,
 prevention/cleaning, X-ray diagnostics, consultation. **No prices are shown**
-("price after consultation"). Service photos are generic illustrations.
+("price after consultation"). Real photos from the clinic's Facebook (20 April
+seminar portraits, Irakli Kezua's smile poster, reception) are used on therapy, endodontics,
+prosthetics, surgery, cleaning, periodontology, aesthetics and consultation; implants,
+orthodontics, children's dentistry and X-ray still use generic illustrations. The people in
+the seminar photos are not named anywhere — ask the clinic who is who.
 
 ## Technology
 
